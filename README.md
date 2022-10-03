@@ -14,5 +14,10 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 ## Contribution guideline :
 You have to first write a efficient accepted solution of any problem on leetcode.
 You can now create a PR with the problem solution.
+Example:
+Step 1: Create
+![Screenshot 2022-10-04 021202](https://user-images.githubusercontent.com/73813570/193679775-2deb7c4c-acf2-469e-8052-b8a81700ac1c.jpg)
+
+
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
