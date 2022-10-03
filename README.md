@@ -14,6 +14,4 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 ## Steps to follow :scroll:
 
 
-## Help Contributing Guides :crown:
-
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
