@@ -1,12 +1,9 @@
 #  Hacktoberfest 2022🔥
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
-
-### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
+### This repository aims to help beginners in open source contribution. 🥳
 
 :star: Feel free to use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
-
-:star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
 
@@ -22,9 +19,5 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 
 ## Help Contributing Guides :crown:
-
-We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
-
-Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
