@@ -1,0 +1,16 @@
+
+class Solution {
+public:
+    bool ok(TreeNode* root,int t){
+        if(!root) return 0;
+        if(root->left==NULL and root->right==NULL) return t==root->val;
+        return ok(root->left,t-root->val)|ok(root->right,t-root->val);
+    }
+
+    bool hasPathSum(TreeNode* root, int targetSum){
+        if(!root) return 0;
+        return ok(root,targetSum);
+    }
+};
+
+// Time-19ms Efficiency-99.70%
