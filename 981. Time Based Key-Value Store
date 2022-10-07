@@ -1,0 +1,28 @@
+class TimeMap {
+public:
+    vector<int> v;
+    map<int,map<string,vector<string>>> mp;
+    TimeMap() {
+    }
+    
+    void set(string key, string value, int timestamp) {
+        mp[timestamp][key].push_back(value);
+        v.push_back(timestamp);
+    }
+    
+    string get(string key, int timestamp) {
+        int pos=upper_bound(v.begin(),v.end(),timestamp)-v.begin();
+        pos--;
+        string val="";
+        while(pos>=0){
+            if(mp[v[pos]].find(key)!=mp[v[pos]].end()) {
+                val=mp[v[pos]][key].back();
+                break;
+            }
+            pos--;
+        }
+        return val;
+    }
+};
+
+// Time- 930ms  Efficiency-5.1%
